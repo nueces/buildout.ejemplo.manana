@@ -1,0 +1,8 @@
+Hola ${:saludo} ${:nombre},
+
+Ud gano la loteria de Telsur que le otorga un premio de ${spam:premio}.
+
+Mande su numero de cuenta bancaria y su clave de acceso para que le pueda ser acreditado.
+
+Saludos atte.
+${spam:firma}
